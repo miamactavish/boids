@@ -3,16 +3,24 @@
   <head>
     <meta charset="utf-8"/>
     <title>Boids</title>
+    <script src="libs/ace/ace.js"></script>
+    <script src="libs/ace/mode-javascript.js"></script>
+    <script src="libs/ace/theme-monokai.js"></script>
     <script src="./boids.js"></script>
-    <style type="text/css">
-      body {
-        margin: 0;
-        background: #282c34;
-        overflow: hidden;
-      }
-    </style>
+    <link rel="stylesheet" type="text/css" href="main.css">
   </head>
   <body>
-    <canvas id="boids" width="150" height="150"></canvas>
+
+    <div id="panel-main">
+      <div id="panel-left">
+        <div id="editor"></div>
+      </div>
+      <div id="panel-right">
+        <canvas id="boids" width="150" height="150"></canvas>
+      </div>
+    </div>
   </body>
-</html>
+
+
+  <script src="./editor.js"></script>
+  </html>
