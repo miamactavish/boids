@@ -5,9 +5,7 @@ Copyright 2020 Ben Eater
 This code is [MIT licensed](http://en.wikipedia.org/wiki/MIT_License).
 
 ## What is this?
-This is a simple demonstration of the boids algorithm that's featured in this Smarter Every Day video:
-
-[<img src=https://img.youtube.com/vi/4LWmRuB-uNU/maxresdefault.jpg width=360/>](https://www.youtube.com/watch?v=4LWmRuB-uNU)
+This is a simple demonstration of the boids algorithm that's featured in <a href='https://www.youtube.com/watch?v=4LWmRuB-uNU'>this Smarter Every Day video</a>.
 
 This simulation is running on [my website](https://eater.net/boids) if you’d like to check it out.
 
